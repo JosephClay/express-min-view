@@ -1,0 +1,22 @@
+{
+  "name": "express-min-view",
+  "version": "0.0.1",
+  "description": "minify and cache static views using express middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephClay/express-min-view.git"
+  },
+  "author": "Joseph Clay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JosephClay/express-min-view/issues"
+  },
+  "homepage": "https://github.com/JosephClay/express-min-view#readme",
+  "dependencies": {
+    "html-minifier": "^3.0.2"
+  }
+}
