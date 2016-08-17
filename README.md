@@ -36,7 +36,7 @@ Configuring an views individually:
 
 ```js
 router.get('view', (req, res) => {
-	res.render('view, {
+	res.render('view', {
 		min: false,
 		cache: false
 	});
